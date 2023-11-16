@@ -1,4 +1,4 @@
-```json
+```
 {
   "TokenEconomy": "Tokens are awarded based on the completion and quality of tasks performed, with a variable number depending on the task's complexity and efficiency of execution.",
   "EssentialsVsDeparture": "Tokens are not only the means to eventually leave the island but also a currency for essential supplies. This dual-purpose creates a strategic dilemma in resource allocation.",
@@ -8,7 +8,7 @@
 }
 ```
 
-```json
+```
 {
   "LinguisticPrecision": "Language used is to be succinct and impactful, maximizing the informational value of each word and phrase, akin to programming languages like Fortran, where every line of code is deliberate and functional.",
   "OptimalTaskStrategy": "Selecting tasks should be approached strategically, focusing on those that offer the best balance between token reward and the effort or resources required, mirroring task optimization in computing.",
