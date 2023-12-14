@@ -47,7 +47,7 @@
 ### Output
 - **For:** `{{Task_Name}}`
 - **Results & Report:** `{{Task_Outcome}}, {{Task_Detailed_Report}}`
-
+```
 Custom instructions form the foundation of effective AI interactions. They are your language to communicate with AI models, ensuring they understand your intentions and align responses with your goals.
 
 1. **Precision and Intent**: Custom instructions convey intent with precision, ensuring the AI understands your request.
